@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.0.5" start="node1" apprev="19996">
+  <panorama id="node1">
+    <input levelbias="0.400" levelingroll="0" width="256" leveltilesize="510" levelbiashidpi="0.400" overlap="1" height="256" leveltileurl="tiles/1_mozart/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="58" fovmode="0">
+      <start fov="70" pan="26.5" tilt="5.5" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="G. Gnome" info="" nodeid="node1" latitude="48.20398453869740" comment="" heading="58" customnodeid="" datetime="October 2011" title="Mozart" description="" tags="park|outside" copyright="G. Gnome" source="" longitude="16.36468438954921"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label border="1" textcolor="0x000000" background="1" borderradius="1" enabled="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="100.508" target="155/-3/65" skinid="ht_node" title="Park" url="{node2}" description="" pan="7.55462" tilt="0" id="Point01"/>
+      <hotspot distance="370.905" target="239/-2.5/65" skinid="ht_node" title="Hofburg" url="{node4}" description="" pan="50.0726" tilt="0" id="Point02"/>
+      <hotspot distance="45.3007" target="19/2/65" skinid="ht_node" title="Entrance" url="{node3}" description="" pan="109.825" tilt="0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafterinfov="90" blendtime="1" enabled="0" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomout="0" softedge="0"/>
+    <autorotate enabled="1" delay="1.00" useanimation="0" nodedelay="3.00" startloaded="0" horizonfromdefview="0" noderandom="1" speed="0.400" returntohorizon="0.000" nodefilter=""/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0" hideabout="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextprojections="0" contextvr="1" rubberband="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingroll="0" width="256" leveltilesize="510" levelbiashidpi="0.400" overlap="1" height="256" leveltileurl="tiles/2_garden/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="209" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="G. Gnome" info="" nodeid="node2" latitude="48.20456014070272" comment="" heading="209" customnodeid="" datetime="October 2011" title="Park" description="" tags="outside|park|pond" copyright="G. Gnome" source="" longitude="16.36573006151582"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label border="1" textcolor="0x000000" background="1" borderradius="1" enabled="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="118.698" target="72/5/65" skinid="ht_node" title="Entrance" url="{node3}" description="" pan="316.657" tilt="0" id="Point01"/>
+      <hotspot distance="100.508" target="205.5/-2/65" skinid="ht_node" title="Mozart" url="{node1}" description="" pan="338.554" tilt="0" id="Point02"/>
+      <hotspot distance="304.497" target="254/1.5/65" skinid="ht_node" title="Hofburg" url="{node4}" description="" pan="213.961" tilt="0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafterinfov="90" blendtime="1" enabled="0" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomout="0" softedge="0"/>
+    <autorotate enabled="1" delay="1.00" useanimation="0" nodedelay="3.00" startloaded="0" horizonfromdefview="0" noderandom="1" speed="0.400" returntohorizon="0.000" nodefilter=""/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0" hideabout="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextprojections="0" contextvr="1" rubberband="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingroll="0" width="256" leveltilesize="510" levelbiashidpi="0.400" overlap="1" height="256" leveltileurl="tiles/3_entrance/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-2" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="G. Gnome" info="" nodeid="node3" latitude="48.204236338877905" comment="" heading="-2" customnodeid="" datetime="October 2011" title="Entrance" description="" tags="park" copyright="G. Gnome" source="" longitude="16.364203853828485"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label border="1" textcolor="0x000000" background="1" borderradius="1" enabled="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="350.278" target="213/-7/65" skinid="ht_node" title="Hofburg" url="{node4}" description="" pan="-16.3416" tilt="0" id="Point01"/>
+      <hotspot distance="118.698" target="119.5/-3/65" skinid="ht_node" title="Park" url="{node2}" description="" pan="-74.3414" tilt="0" id="Point02"/>
+      <hotspot distance="45.3007" target="292.5/-0.5/65" skinid="ht_node" title="Mozart" url="{node1}" description="" pan="-130.175" tilt="0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafterinfov="90" blendtime="1" enabled="0" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomout="0" softedge="0"/>
+    <autorotate enabled="1" delay="1.00" useanimation="0" nodedelay="3.00" startloaded="0" horizonfromdefview="0" noderandom="1" speed="0.400" returntohorizon="0.000" nodefilter=""/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0" hideabout="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextprojections="0" contextvr="1" rubberband="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelingroll="0" width="256" leveltilesize="510" levelbiashidpi="0.400" overlap="1" height="256" leveltileurl="tiles/4_hofburg/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="213" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="330" pan="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata author="G. Gnome" info="" nodeid="node4" latitude="48.20728828896992" comment="" heading="213" customnodeid="" datetime="October 2011" title="Hofburg" description="" tags="inside" copyright="G. Gnome" source="" longitude="16.365374695770242"/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label border="1" textcolor="0x000000" background="1" borderradius="1" enabled="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" backgroundalpha="1" borderalpha="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot distance="304.497" target="62.5/-2.5/65" skinid="ht_node" title="Park" url="{node2}" description="" pan="37.9616" tilt="0" id="Point01"/>
+      <hotspot distance="370.905" target="290.983/-2/93.45" skinid="ht_node" title="Mozart" url="{node1}" description="" pan="385.072" tilt="0" id="Point02"/>
+      <hotspot distance="350.278" target="184/-2.5/65" skinid="ht_node" title="Entrance" url="{node3}" description="" pan="18.539" tilt="0.0793961" id="Point03"/>
+      <polyhotspot title="Mozart" target="14/1/65" url="{node1}" description="" id="Poly01">
+        <polystring>-106.43/17.9068|-109.076/14.1398|-109.195/10.0441|-111.347/9.23865|-110.831/4.3454|-114.323/5.06353|-115.437/0.660942|-119.135/-2.88353|-95.952/-3.26888|-96.8087/1.58886|-100.178/2.21318|-100.454/9.3115|-103.422/9.17055|-103.737/16.4503</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafterinfov="90" blendtime="1" enabled="0" delay="none" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomout="0" softedge="0"/>
+    <autorotate enabled="1" delay="1.00" useanimation="0" nodedelay="3.00" startloaded="0" horizonfromdefview="0" noderandom="1" speed="0.400" returntohorizon="0.000" nodefilter=""/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" invertwheel="0" hideabout="0" lockedkeyboard="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextprojections="0" contextvr="1" rubberband="0" contextfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" description="" comment="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
